@@ -88,7 +88,7 @@ kalpha_on_stance <- krippendorffs.alpha(
   data = as.matrix(raters_on_stance[, c("rater1_num", "rater2_num")]),
   level = "nominal", verbose = TRUE, method = "customary",
   # Calculate conf. intervals with 5,000 bootstrap samples
-  control = list(parallel = TRUE, bootit = 5000, nodes = detectCores() %/% 2))
+  control = list(parallel = TRUE, bootit = 5000, nodes = 2))
 
 summary(kalpha_on_stance)
 
