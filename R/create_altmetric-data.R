@@ -29,7 +29,8 @@ sessionInfo()
 
 ### GATHER DATA ################################################################
 
-# Original exports from Altmetric Explorer available upon reasonable request
+# NOTE That original exports from Altmetric Explorer are left out for copyright
+# reasons. All data is available upon reasonable request
 
 dois <- scan("data/included_studies.txt", what = "character")
 
@@ -45,7 +46,7 @@ for (i in seq_along(dois)) {
 
   altmetric_study <- dois[i] %>%
     gsub("/", "_", .) %>%       # doi to data path
-    paste0("data/altmetric/", ., ".csv") %>%
+    paste0("data/", ., ".csv") %>%
     read_csv(col_types = altmetric_col_types) %>%
     mutate(altmetric_id =
              gsub("https://www.altmetric.com/details/",
@@ -74,17 +75,17 @@ altmetric_data
 altmetric_data %>% nrow()
 
 # Save tweets and altmetric data
-write_csv(altmetric_data, "data/altmetric_data.csv")
 write_csv(altmetric_data[, c("tweet_id", "doi")], "data/altmetric_tweets.csv")
-
-names(altmetric_data)
 
 # Study summaries
 altmetric_summary <- altmetric_data %>%
   mutate(
+    # Pool data from different versions of the same paper, change names
     doi = case_when(
-      grepl("^10\\.21203/rs\\.3\\.rs-100956.+", doi) ~ "10.21203/rs.3.rs-100956/v4",
-      grepl("10\\.31219/osf\\.io/wx3zn", doi) ~ "10.3389/fphar.2021.643369",
+      grepl("^10\\.21203/rs\\.3\\.rs-100956.+", doi)
+      ~ "10.21203/rs.3.rs-100956/v4",
+      grepl("10\\.31219/osf\\.io/wx3zn", doi)
+      ~ "10.3389/fphar.2021.643369",
       .default = doi)
   ) %>%
   group_by(doi, altmetric_id, altmetric_attention_score) %>%
@@ -96,8 +97,13 @@ altmetric_summary <- altmetric_summary %>%
   summarise(attention_score = sum(altmetric_attention_score),
             tweet_count     = sum(tweet_count))
 
+altmetric_summary
+
 # Save Altmetric summary
-write_csv(altmetric_summary, "data/altmetric_summary.csv")
+if(!file.exists("results")) {
+  dir.create(file.path(getwd(), "results")) }
+
+write_csv(altmetric_summary, "results/altmetric_summary.csv")
 
 mean(altmetric_summary$attention_score) %>% round(0)
 sd(altmetric_summary$attention_score) %>% round(0)
