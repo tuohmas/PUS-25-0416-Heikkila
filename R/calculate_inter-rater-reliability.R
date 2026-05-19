@@ -136,8 +136,8 @@ set.seed(1234)
 kalpha_on_corrections <- krippendorffs.alpha(
   data = as.matrix(raters_on_corrections[, c("rater1_num", "rater2_num")]),
   level = "nominal", verbose = TRUE, method = "customary",
-  # Calculate conf. intervals with 5,000 bootstrap samples (using 3 CPU cores)
-  control = list(parallel = TRUE, bootit = 5000, nodes = detectCores() %/% 2))
+  # Calculate conf. intervals with 5,000 bootstrap samples
+  control = list(parallel = TRUE, bootit = 5000, nodes = 2))
 
 # Print summary
 summary(kalpha_on_corrections)
