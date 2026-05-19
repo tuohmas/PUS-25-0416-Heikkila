@@ -1,0 +1,301 @@
+id,tweet_id,type,study,rater1_label,rater2_label,rater1_num,rater2_num
+001A,1439964421892214786,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+001B,1440540790292320259,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+002A,1245316217767972864,tweets,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,Positive stance,Positive stance,1,1
+002B,1245316549570945024,replies,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,User correction,User correction,1,1
+003A,1430220673230819331,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+003B,1430295292172283904,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+004A,1405362894724730884,tweets,Zaidi & Dehgani-Mobaraki (2021): The mechanisms of action of Ivermectin against SARS-CoV-2: An evidence-based clinical review article,Negative stance,Negative stance,-1,-1
+004B,1405577745082437634,replies,Zaidi & Dehgani-Mobaraki (2021): The mechanisms of action of Ivermectin against SARS-CoV-2: An evidence-based clinical review article,Other,Other,0,0
+005A,1554674974576762881,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Negative stance,Negative stance,-1,-1
+005B,1554675765647654913,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,Other,1,0
+006A,1571529154151219201,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+006B,1571531371633328130,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+007A,1586052164807368704,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+007B,1586052928904736768,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+008A,1243372615802093570,tweets,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,Undefined stance,Undefined stance,99,99
+008B,1243394967965294600,replies,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,User correction,Other,1,0
+009A,1406383384020930560,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+009B,1406787140688650241,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+011A,1482038221601218561,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Undefined stance,Undefined stance,99,99
+011B,1482040404908417026,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+012A,1259816667737186304,tweets,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,Positive stance,Positive stance,1,1
+012B,1259820403305873409,replies,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,User correction,User correction,1,1
+013A,1241434818438561792,tweets,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,Undefined stance,Undefined stance,99,99
+013B,1241683610060697601,replies,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,Other,Other,0,0
+014A,1395148247325347840,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+014B,1395162948775989250,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+015A,1438644321540993024,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+015B,1441247464380534790,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+017A,1433372953228582913,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+017B,1433434848983752704,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+018A,1433256866499358728,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+018B,1433260603376902144,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+019A,1247178240529240065,tweets,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,Positive stance,Positive stance,1,1
+019B,1247181173325025283,replies,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,Other,Other,0,0
+020A,1430220673230819331,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+020B,1430636497716252682,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+021A,1486865427368087559,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+021B,1486888434035671045,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+022A,1431044290340290567,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+022B,1431045646719414274,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+023A,1430546963120918538,tweets,Zaidi & Dehgani-Mobaraki (2021): The mechanisms of action of Ivermectin against SARS-CoV-2: An evidence-based clinical review article,Positive stance,Undefined stance,1,99
+023B,1430547144520441865,replies,Zaidi & Dehgani-Mobaraki (2021): The mechanisms of action of Ivermectin against SARS-CoV-2: An evidence-based clinical review article,Other,Other,0,0
+024A,1424690373423734787,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+024B,1425587702724956165,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",User correction,User correction,1,1
+025A,1446648711136829440,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+025B,1446687691832242182,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+026A,1438868374503804933,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+026B,1438902446483550208,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",User correction,User correction,1,1
+027A,1508241348922523650,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Undefined stance,Undefined stance,99,99
+027B,1508243217208250376,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+028A,1289351202241523715,tweets,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,Positive stance,Positive stance,1,1
+028B,1289416498935668736,replies,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,User correction,User correction,1,1
+029A,1392299682509074435,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+029B,1392337932250398724,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+031A,1401557936103575555,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Negative stance,Negative stance,-1,-1
+031B,1401578531575025667,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+032A,1435592425037205507,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+032B,1435606055694700545,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",User correction,User correction,1,1
+033A,1389527809710772228,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Neutral stance,Neutral stance,0,0
+033B,1389575577456324634,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",User correction,User correction,1,1
+034A,1406432880780316678,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+034B,1406604353243332616,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+035A,1435642389553627138,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Undefined stance,Undefined stance,99,99
+035B,1435651706285592578,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+036A,1434907339102908420,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+036B,1448674986005176322,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+038A,1435543306356805637,tweets,Pott-Junior et al. (2021): Use of ivermectin in the treatment of Covid-19: A pilot trial,Positive stance,Positive stance,1,1
+038B,1435593298027102210,replies,Pott-Junior et al. (2021): Use of ivermectin in the treatment of Covid-19: A pilot trial,User correction,User correction,1,1
+039A,1553730033990115331,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+039B,1553889325179445248,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+040A,1388867462385569794,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+040B,1388876485189120001,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+041A,1495581600758874114,tweets,Zaidi & Dehgani-Mobaraki (2021): The mechanisms of action of Ivermectin against SARS-CoV-2: An evidence-based clinical review article,Negative stance,Negative stance,-1,-1
+041B,1495582497379389441,replies,Zaidi & Dehgani-Mobaraki (2021): The mechanisms of action of Ivermectin against SARS-CoV-2: An evidence-based clinical review article,Other,Other,0,0
+042A,1487889366919884807,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+042B,1487896449149018115,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+043A,1410798259031904256,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+043B,1410798574841913345,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",User correction,User correction,1,1
+045A,1465000205871468550,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+045B,1465001013971144705,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+046A,1429129151613657096,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+046B,1429129679613480962,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+048A,1409769707482271745,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+048B,1409885358821724164,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,User correction,0,1
+049A,1462435752718082048,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+049B,1462515591164665858,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+050A,1405607811820703746,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Neutral stance,Neutral stance,0,0
+050B,1405608385169571846,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,User correction,0,1
+052A,1429519724384239621,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+052B,1429569710765449222,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",User correction,User correction,1,1
+053A,1433479141307793408,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Undefined stance,Undefined stance,99,99
+053B,1433499680168681480,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+054A,1429668262544125952,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+054B,1429741975339560962,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+056A,1409769707482271745,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+056B,1409770276355817475,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+057A,1429834605067124749,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+057B,1429863317812781067,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+058A,1429654569848655877,tweets,Zaidi & Dehgani-Mobaraki (2021): The mechanisms of action of Ivermectin against SARS-CoV-2: An evidence-based clinical review article,Positive stance,Positive stance,1,1
+058B,1448679260286242828,replies,Zaidi & Dehgani-Mobaraki (2021): The mechanisms of action of Ivermectin against SARS-CoV-2: An evidence-based clinical review article,Other,Other,0,0
+059A,1408792820744396801,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+059B,1408796123951738880,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+060A,1413151472057942020,tweets,Hill et al. (2021): Meta-analysis of Randomized Trials of Ivermectin to Treat SARS-CoV-2 Infection,Positive stance,Positive stance,1,1
+060B,1413653324713299970,replies,Hill et al. (2021): Meta-analysis of Randomized Trials of Ivermectin to Treat SARS-CoV-2 Infection,Other,Other,0,0
+061A,1425186480545271822,tweets,Hill et al. (2021): Meta-analysis of Randomized Trials of Ivermectin to Treat SARS-CoV-2 Infection,Negative stance,Negative stance,-1,-1
+061B,1425848984640180227,replies,Hill et al. (2021): Meta-analysis of Randomized Trials of Ivermectin to Treat SARS-CoV-2 Infection,Other,Other,0,0
+062A,1406399762916470788,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+062B,1406405664008716293,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+063A,1430220673230819331,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+063B,1430931682270482436,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+064A,1413137285701259268,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Negative stance,Negative stance,-1,-1
+064B,1413143728374489093,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",User correction,Other,1,0
+065A,1430220673230819331,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+065B,1430230309677801473,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+066A,1429631029497712646,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+066B,1429631656202317829,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+067A,1497744590345965576,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+067B,1497768780256079876,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+068A,1432426398703050752,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+068B,1432432666842963974,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+069A,1429639974778032136,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+069B,1429661593231499269,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+070A,1392476071526903815,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+070B,1392582940509446145,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+071A,1492657568770146311,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+071B,1493432771280130052,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+072A,1430256788063019012,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+072B,1430936063690817538,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",User correction,User correction,1,1
+073A,1461775759861850115,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+073B,1461777883333021702,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+074A,1407990222248243200,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Neutral stance,Neutral stance,0,0
+074B,1407992880153579520,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+075A,1445892033017573380,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+075B,1445894379831365633,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+076A,1411481568837738501,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+076B,1411482457304494085,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+077A,1435609061915979779,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+077B,1435609557636509696,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+078A,1570604819454496768,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+078B,1570613151300980736,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+079A,1461567975794909186,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+079B,1461568239117471747,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+080A,1247967218748407809,tweets,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,Positive stance,Positive stance,1,1
+080B,1248140901517590531,replies,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,User correction,User correction,1,1
+081A,1407088876662013961,tweets,Zaidi & Dehgani-Mobaraki (2021): The mechanisms of action of Ivermectin against SARS-CoV-2: An evidence-based clinical review article,Positive stance,Positive stance,1,1
+081B,1407089644903206916,replies,Zaidi & Dehgani-Mobaraki (2021): The mechanisms of action of Ivermectin against SARS-CoV-2: An evidence-based clinical review article,Other,Other,0,0
+082A,1463990443633430534,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+082B,1463993843121106949,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+083A,1423634412298719232,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+083B,1424446288721031169,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+084A,1430220673230819331,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+084B,1430290969518215169,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+085A,1423358979342839808,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Undefined stance,1,99
+085B,1423381777721094144,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+086A,1538914413872398337,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Undefined stance,Undefined stance,99,99
+086B,1538935581006241792,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+087A,1426621418213625857,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+087B,1426917934878887938,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+088A,1467921791934939137,tweets,Elgazzar et al. (2020): Efficacy and Safety of Ivermectin for Treatment and prophylaxis of COVID-19 Pandemic,Undefined stance,Undefined stance,99,99
+088B,1443032766027812865,replies,Elgazzar et al. (2020): Efficacy and Safety of Ivermectin for Treatment and prophylaxis of COVID-19 Pandemic,Other,Other,0,0
+089A,1403731617391206412,tweets,"Kory, Meduri, Inglesias et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Negative stance,Negative stance,-1,-1
+089B,1403828214838013959,replies,"Kory, Meduri, Inglesias et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+090A,1245054682310959104,tweets,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,Neutral stance,Positive stance,0,1
+090B,1245056338322808833,replies,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,Other,Other,0,0
+091A,1430834837074612227,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Undefined stance,1,99
+091B,1430850247320821763,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+092A,1443922650481500169,tweets,Samaha et al. (2021): Effects of a Single Dose of Ivermectin on Viral and Clinical Outcomes in Asymptomatic SARS-CoV-2 Infected Subjects: A Pilot Clinical Trial in Lebanon,Positive stance,Positive stance,1,1
+092B,1443946845156347910,replies,Samaha et al. (2021): Effects of a Single Dose of Ivermectin on Viral and Clinical Outcomes in Asymptomatic SARS-CoV-2 Infected Subjects: A Pilot Clinical Trial in Lebanon,Other,Other,0,0
+093A,1429768529667035142,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+093B,1429831036683231232,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+094A,1441915622799986691,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+094B,1441954302021423110,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+095A,1495890386572697610,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Undefined stance,Undefined stance,99,99
+095B,1495915233520537604,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,Other,1,0
+096A,1244606844703735808,tweets,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,Positive stance,Positive stance,1,1
+096B,1246925772054335488,replies,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,User correction,User correction,1,1
+097A,1419408794568859659,tweets,Hill et al. (2021): Meta-analysis of Randomized Trials of Ivermectin to Treat SARS-CoV-2 Infection,Positive stance,Positive stance,1,1
+097B,1419413820368371713,replies,Hill et al. (2021): Meta-analysis of Randomized Trials of Ivermectin to Treat SARS-CoV-2 Infection,Other,Other,0,0
+098A,1363951734171828225,tweets,Elgazzar et al. (2020): Efficacy and Safety of Ivermectin for Treatment and prophylaxis of COVID-19 Pandemic,Positive stance,Positive stance,1,1
+098B,1364117994750763008,replies,Elgazzar et al. (2020): Efficacy and Safety of Ivermectin for Treatment and prophylaxis of COVID-19 Pandemic,Other,Other,0,0
+099A,1391762178387046400,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+099B,1391767747248459785,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+100A,1437209830536720386,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+100B,1437308711270297603,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+101A,1255482719427067912,tweets,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,Undefined stance,Undefined stance,99,99
+101B,1255483674654621698,replies,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,Other,Other,0,0
+102A,1446499890083794947,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+102B,1446511729890971650,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,Other,1,0
+103A,1243629190739644419,tweets,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,Undefined stance,Undefined stance,99,99
+103B,1243692876527276039,replies,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,Other,Other,0,0
+104A,1486337580815687681,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+104B,1486340559572807690,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+105A,1413151472057942020,tweets,Hill et al. (2021): Meta-analysis of Randomized Trials of Ivermectin to Treat SARS-CoV-2 Infection,Positive stance,Positive stance,1,1
+105B,1413347440296480774,replies,Hill et al. (2021): Meta-analysis of Randomized Trials of Ivermectin to Treat SARS-CoV-2 Infection,Other,Other,0,0
+106A,1409103245646118912,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Undefined stance,Undefined stance,99,99
+106B,1409104445460422664,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+107A,1434079922738253825,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Neutral stance,Undefined stance,0,99
+107B,1434080828238155784,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+108A,1433185903170793473,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+108B,1433207481895895050,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+109A,1431396464446435330,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+109B,1431502291299966978,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+110A,1406355320012640258,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Negative stance,Negative stance,-1,-1
+110B,1406895985763172353,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,User correction,0,1
+111A,1571343799842115584,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+111B,1583978956570910721,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+112A,1408910594321883137,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+112B,1408912275600252929,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,Other,1,0
+113A,1462910532793638913,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+113B,1493494522176622594,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+115A,1406606387208019968,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+115B,1406608282597351428,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+116A,1435609716286132226,tweets,Zaidi & Dehgani-Mobaraki (2021): The mechanisms of action of Ivermectin against SARS-CoV-2: An evidence-based clinical review article,Positive stance,Positive stance,1,1
+116B,1435655761678544896,replies,Zaidi & Dehgani-Mobaraki (2021): The mechanisms of action of Ivermectin against SARS-CoV-2: An evidence-based clinical review article,User correction,User correction,1,1
+117A,1404789068605661186,tweets,Zaidi & Dehgani-Mobaraki (2021): The mechanisms of action of Ivermectin against SARS-CoV-2: An evidence-based clinical review article,Positive stance,Positive stance,1,1
+117B,1404837301444911104,replies,Zaidi & Dehgani-Mobaraki (2021): The mechanisms of action of Ivermectin against SARS-CoV-2: An evidence-based clinical review article,Other,Other,0,0
+118A,1433407897275441152,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Undefined stance,1,99
+118B,1433412112605401092,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+119A,1401557936103575555,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Negative stance,Negative stance,-1,-1
+119B,1401613297514913792,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+120A,1339240047980269570,tweets,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,Undefined stance,Undefined stance,99,99
+120B,1339289962429231105,replies,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,Other,User correction,0,1
+121A,1473862277677920263,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Undefined stance,1,99
+121B,1474446834395353088,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+122A,1472737318364532736,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+122B,1472764047422476292,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,User correction,0,1
+123A,1471370142390968321,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+123B,1471544679460130819,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+124A,1489591579102875651,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+124B,1489592285050576896,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+125A,1421607307444723713,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+125B,1423303239936757762,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+126A,1406303081101467651,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+126B,1406314786741174279,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,User correction,0,1
+127A,1435642283412557825,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Negative stance,Negative stance,-1,-1
+127B,1436018356201529366,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+128A,1406684027634032641,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+128B,1407253995014524928,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+129A,1456457005565202437,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+129B,1456589840833785862,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,User correction,0,1
+130A,1491251780931702786,tweets,Hill et al. (2021): Meta-analysis of Randomized Trials of Ivermectin to Treat SARS-CoV-2 Infection,Negative stance,Negative stance,-1,-1
+130B,1491252199837806594,replies,Hill et al. (2021): Meta-analysis of Randomized Trials of Ivermectin to Treat SARS-CoV-2 Infection,Other,User correction,0,1
+131A,1430220673230819331,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+131B,1430311063648620546,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+132A,1407477600340037635,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+132B,1407499156411854850,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+133A,1463325442572705793,tweets,Zaidi & Dehgani-Mobaraki (2021): The mechanisms of action of Ivermectin against SARS-CoV-2: An evidence-based clinical review article,Positive stance,Positive stance,1,1
+133B,1463347401188528133,replies,Zaidi & Dehgani-Mobaraki (2021): The mechanisms of action of Ivermectin against SARS-CoV-2: An evidence-based clinical review article,User correction,User correction,1,1
+134A,1430220673230819331,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+134B,1430255371256487939,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+135A,1417429788285980689,tweets,Zaidi & Dehgani-Mobaraki (2021): The mechanisms of action of Ivermectin against SARS-CoV-2: An evidence-based clinical review article,Positive stance,Positive stance,1,1
+135B,1417430201324261435,replies,Zaidi & Dehgani-Mobaraki (2021): The mechanisms of action of Ivermectin against SARS-CoV-2: An evidence-based clinical review article,Other,Other,0,0
+136A,1519522692361342976,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+136B,1519540869279350789,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+137A,1573745769433145344,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+137B,1573958519455240192,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+138A,1442218139903672321,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Undefined stance,Positive stance,99,1
+138B,1442254296871931906,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+139A,1553730033990115331,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+139B,1553901912667443200,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+140A,1430549297670496258,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Undefined stance,Neutral stance,99,0
+140B,1430554779487399937,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+141A,1406432880780316678,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+141B,1406518636831903744,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+142A,1469702556331163649,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Undefined stance,Undefined stance,99,99
+142B,1469707514585522179,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+143A,1467266277555245062,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Negative stance,Undefined stance,-1,99
+143B,1467280014823489540,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+144A,1429668262544125952,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+144B,1429864721499529221,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+145A,1431978458654117892,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Undefined stance,1,99
+145B,1431979686033252353,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+146A,1566899868026683392,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+146B,1566929222102294530,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+147A,1391918155228848130,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+147B,1391919216727519232,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+149A,1430220673230819331,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+149B,1430279780579086343,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+150A,1241435935356657664,tweets,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,Undefined stance,Undefined stance,99,99
+150B,1241437836865196032,replies,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,Other,Other,0,0
+151A,1426367449620832263,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Undefined stance,Undefined stance,99,99
+151B,1426380800187117573,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",User correction,User correction,1,1
+152A,1430220673230819331,tweets,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Positive stance,Positive stance,1,1
+152B,1430826278748254210,replies,"Kory, Meduri, Varon et al. (2021): Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19",Other,Other,0,0
+153A,1406677759405957122,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+153B,1406679751532503040,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+155A,1253858624105058307,tweets,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,Negative stance,Negative stance,-1,-1
+155B,1253858925784510464,replies,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,Other,Other,0,0
+156A,1476954747223564289,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Neutral stance,1,0
+156B,1476974835398029319,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+157A,1486727817844826112,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+157B,1486729039691673605,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+158A,1254553150326927361,tweets,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,Positive stance,Positive stance,1,1
+158B,1254555159004356609,replies,Gautret et al. (2020): Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial,User correction,User correction,1,1
+159A,1408649623389016065,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Undefined stance,Undefined stance,99,99
+159B,1408653317413167105,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
+161A,1409674224424284182,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+161B,1409737554987937795,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Other,Other,0,0
+162A,1432530398496559106,tweets,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,Positive stance,Positive stance,1,1
+162B,1432538739302182914,replies,Bryant et al. (2021): Ivermectin for Prevention and Treatment of COVID-19 Infection,User correction,User correction,1,1
