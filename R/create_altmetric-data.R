@@ -75,7 +75,7 @@ altmetric_data
 altmetric_data %>% nrow()
 
 # Save tweets and altmetric data
-write_csv(altmetric_data[, c("tweet_id", "doi")], "data/altmetric_tweets.csv")
+write_tsv(altmetric_data[, c("tweet_id", "doi")], "data/altmetric_tweets.txt")
 
 # Study summaries
 altmetric_summary <- altmetric_data %>%
