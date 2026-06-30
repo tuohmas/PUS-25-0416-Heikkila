@@ -33,7 +33,8 @@ politely_req <- politely(httr2::request, verbose = TRUE)
 # Request Semantic Scholar's Academic Graph API
 req <- politely_req("https://gitlab.com/crossref/")
 
-git_version <- "c5fef343d1cb198cfcf39fb6b4dd1ad240f3d8a5" # data for 2025-10-20
+# Specify a git version corresponding to a snapshot on 20 October, 2025
+git_version <- "c5fef343d1cb198cfcf39fb6b4dd1ad240f3d8a5"
 
 # Build the query
 query <- req %>%
@@ -79,47 +80,54 @@ database <- database %>%
 
 glimpse(database)
 
-View(database)
-
 database <- database %>%
   mutate(RetractionDOI = ifelse(
     RetractionDOI == "unavailable", NA, RetractionDOI))
 
 # Clean "unavailable" Retraction DOIs with unique identifiers
-
 database$RetractionDOI[is.na(database$RetractionDOI)] <-
   sample(seq_along(database$RetractionDOI[is.na(database$RetractionDOI)]),
          sum(is.na(database$RetractionDOI)),replace = FALSE)
 
-# Filtering: retraction date between 2020-01-01 to 2022-10-31, inclusive
-database <- database %>%
-  filter(between(RetractionDate, as.Date("2020-01-01"), as.Date("2022-10-31")))
-
-glimpse(database)
+# Clean "unavailable" Original DOIs with unique identifiers
+database$OriginalPaperDOI[is.na(database$OriginalPaperDOI)] <-
+  sample(seq_along(database$OriginalPaperDOI[is.na(database$OriginalPaperDOI)]),
+         sum(is.na(database$OriginalPaperDOI)),replace = FALSE)
 
 # SEARCH THE DATABASE ##########################################################
+
+# Filtering: retraction date between 2020-01-01 to 2022-10-31, inclusive
+database <- database %>%
+  distinct(Record_ID, .keep_all = TRUE) %>%
+  filter(
+    between(RetractionDate, as.Date("2020-01-01"), as.Date("2022-10-31"))
+    )
+
+glimpse(database) # 13,913 records total
 
 # Filtering: Type of retraction is "Retraction" or "Expression of concern")
 retraction_nature <- c("Retraction", "Expression of concern")
 
-database <- database %>% filter(
-  grepl(paste(retraction_nature, collapse = "|"),
-        RetractionNature, ignore.case = TRUE))
+database <- database %>%
+  filter(
+    grepl(paste(retraction_nature, collapse = "|"),
+        RetractionNature, ignore.case = TRUE)
+    )
 
-glimpse(database)
+glimpse(database) # 13,553 records (cumulative)
 
 # Filtering: Case insensitive COVID-19 related keywords:
-# (covid* OR "sars-*cov-2" OR coronavirus OR "2019-nCoV"): 268 records
+# (covid* OR "sars-*cov-2" OR coronavirus OR "2019-nCoV")
 
 covid_keywords <- c("covid", "sars-.*cov-2", "corona-*virus", "2019-ncov")
 
 database <- database %>% filter(
   grepl(paste(covid_keywords, collapse = "|"), Title, ignore.case = TRUE))
 
-glimpse(database)
+glimpse(database) # 343 records (cumulative)
 
 # Filtering: Case insensitive COVID-19 related keywords:
-# ((hydroxychloroquine* OR "hcq") OR ("ivermectin* OR "ivm"))
+# ((hydroxychloroquine* OR "hcq") OR ("ivermectin* OR "ivm")): 27 records
 
 drug_keywords <- c("hydroxychloroquine", "hcq", "ivermectin", "ivm")
 
@@ -129,7 +137,7 @@ database <- database %>% filter(
 glimpse(database)
 
 # Filtering by Article type: ("Clinical Study" OR "Review Article"
-# OR "Case Report" OR "Meta-Analysis" OR "Research Article")
+# OR "Case Report" OR "Meta-Analysis" OR "Research Article"): 25 records
 
 article_type <- c("Clinical Study",
                   "Review Article",
@@ -140,9 +148,13 @@ article_type <- c("Clinical Study",
 database <- database %>% filter(
   grepl(paste(article_type, collapse = "|"), ArticleType, ignore.case = TRUE))
 
-glimpse(database)
+glimpse(database) # 25 records (cumulative)
 
 # Removing duplicates:
-database <- database %>% distinct(RetractionDOI, .keep_all = TRUE)
+database <- database %>%
+  distinct(RetractionDOI, .keep_all = TRUE) %>%  # Retractions to the same paper
+  distinct(OriginalPaperDOI, .keep_all = TRUE) %>%  # Unique papers
+  arrange(Title)
 
-glimpse(database)
+glimpse(database) # 18 records
+
