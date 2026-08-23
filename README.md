@@ -6,6 +6,4 @@ _Abstract:_ Misinformation is often equated with blatant falsehoods from dubious
 
 _Keywords: misinformation, user correction, social media, Twitter/X, retractions, mixed-methods study, computational methods, ivermectin, hydroxycholoroquine, COVID-19_
 
-_Citation:_ [Pending]
-
-**Note on usage**
+_Citation:_ Heikkilä, T. (2026). Stop pushing junk science! Stop pushing junk science! User corrections of misinformation in science are common and sophisticated. _Public Understanding of Science_. [https://doi.org/10.1177/09636625261470329](https://doi.org/10.1177/09636625261470329)
