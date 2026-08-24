@@ -1,4 +1,4 @@
-# Tuomas Heikkilä
+# Tuomas Heikkilä, University of Helsinki
 # tuomas.k.heikkila@helsinki.fi
 
 # Calculate inter-coder reliability scores between two raters based on the final
@@ -28,18 +28,22 @@ sessionInfo()
 
 ### INTER-CODER RELIABILITY MEASURES ###########################################
 
+# Original data available upon request
+# rater1 <- read_and_preprocess("data/test_sample_rater1.csv", rater = 1)
+# rater2 <- read_and_preprocess("data/test_sample_rater2.csv", rater = 2)
+
 # Custom function for basic pre-processing when reading csv files
 read_and_preprocess <- function(file, rater = 1) {
 
   label_info <- data.frame(
     code = as.factor(c("P", "N", "A", "U", 1, 0, NA)), # Recorded codes
     label = c("Positive stance",                   # Intelligible codes
-                   "Negative stance",
-                   "Neutral stance",
-                   "Undefined stance",
-                   "User correction",
-                   "Other",
-                   NA),
+              "Negative stance",
+              "Neutral stance",
+              "Undefined stance",
+              "User correction",
+              "Other",
+              NA),
     # Numeric values for calculations
     num = c(1, -1, 0, 99, 1, 0, NA))
 
@@ -51,7 +55,7 @@ read_and_preprocess <- function(file, rater = 1) {
     left_join(label_info, by = "code") %>%
     left_join(tweet_ids, by = "id") %>%
 
-     # Clean and anonymise data
+    # Clean and anonymise data
     select(id, tweet_id, type, study, label, num) %>%
     rename_with(
       ~ paste0("rater", rater, "_", .x), ends_with(c("label", "num")))
@@ -60,16 +64,13 @@ read_and_preprocess <- function(file, rater = 1) {
 
 }
 
-# Original data available upon request
-# rater1 <- read_and_preprocess("data/test_sample_rater1.csv", rater = 1)
-# rater2 <- read_and_preprocess("data/test_sample_rater2.csv", rater = 2)
-
-raters <- inner_join(
-  rater1, rater2 %>% select(id, starts_with("rater2")), by = "id") %>%
-  relocate(rater1_num, .before = rater2_num)
+# raters <- inner_join(
+#   rater1, rater2 %>% select(id, starts_with("rater2")), by = "id") %>%
+#   relocate(rater1_num, .before = rater2_num)
 
 # raters %>% write_csv("data/anonymised_test_codes.csv")
-# raters <- read_csv("data/anonymised_test_codes.csv")
+raters <- read_csv("data/anonymised_test_codes.csv",
+                   col_types = "ccccccii")
 
 #### Agreement on stance (tweets) ##############################################
 
@@ -85,10 +86,13 @@ agree_on_stance
 set.seed(1234)
 
 kalpha_on_stance <- krippendorffs.alpha(
+
   data = as.matrix(raters_on_stance[, c("rater1_num", "rater2_num")]),
   level = "nominal", verbose = TRUE, method = "customary",
+
   # Calculate conf. intervals with 5,000 bootstrap samples
-  control = list(parallel = TRUE, bootit = 5000, nodes = 2))
+  control = list(parallel = TRUE, bootit = 5000, nodes = 2)
+  )
 
 summary(kalpha_on_stance)
 
@@ -176,7 +180,7 @@ row.names(results) <- NULL
 results
 
 # Uncomment
-if(!file.exists("results")) {
-  dir.create(file.path(getwd(), "results")) }
-
-results %>% write_csv("results/inter-rater-reliability-scores.csv")
+# if(!file.exists("results")) {
+#   dir.create(file.path(getwd(), "results")) }
+#
+# results %>% write_csv("results/inter-rater-reliability-scores.csv")
