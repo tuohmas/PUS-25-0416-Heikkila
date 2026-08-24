@@ -1,29 +1,5 @@
-# Tuomas Heikkilä
+# Tuomas Heikkilä, Unveristy of Helsinki
 # tuomas.k.heikkila@helsinki.fi
-
-# Script for running Automated Nonparametric Content Analysis with Readme2
-# To be run as a CSC Puhti Array job
-
-## Login overriding the default MAC algorithm
-# ssh -m hmac-sha2-512 tuomheik@puhti.csc.fi
-
-### TESTTING IN INTERACTIVE
-## Launch interactive mode with default memory and local scratch space. for example:
-# cd /projappl/project_2010556
-# sinteractive --account project_2010556 --cores 1 --time 01:00:00 --mem 12G --tmp 10
-
-## Create a folder for your R packages in /projappl
-# cd /projappl/project_2010556
-# mkdir project_rpackages
-
-## Go to projappl and activate r-readme
-# cd /projappl/project_2010556
-# module load python-data
-# source /projappl/project_2010556/r-reticulate/bin/activate
-
-# Start R
-# module load r-env
-# start-r
 
 # PREPARATIONS #################################################################
 
@@ -88,10 +64,10 @@ labels <-
 
 labels
 
-keep_rows <- labels %>% 
+keep_rows <- labels %>%
   with(which(!self_reply))
 
-labels <- labels %>% 
+labels <- labels %>%
   filter(!self_reply)
 
 labels
@@ -159,4 +135,4 @@ saveRDS(readme_results,
         paste0(path, "/outputs/readme-replies-excluding-self-replies", names(models[i]), ".rds"))
 
 # Script finished
-print("Finished with the script!")
+message("Finished with the script!")
