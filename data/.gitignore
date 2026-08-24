@@ -18,3 +18,5 @@ test_sample_rater1.csv
 10.3390_v13060989.csv
 clean_labeled_tweets.rds
 clean_labeled_replies.rds
+tweet_data_final.rds
+replies_data_final.rds
