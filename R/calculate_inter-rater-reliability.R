@@ -45,7 +45,8 @@ read_and_preprocess <- function(file, rater = 1) {
               "Other",
               NA),
     # Numeric values for calculations
-    num = c(1, -1, 0, 99, 1, 0, NA))
+    num = c(1, -1, 0, 99, 1, 0, NA)
+    )
 
   tweet_ids <- read_csv("data/test_sample_ids.csv", col_types = "cc")
 
