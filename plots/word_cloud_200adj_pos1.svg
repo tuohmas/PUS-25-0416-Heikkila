@@ -1,0 +1,295 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='481.89pt' height='360.00pt' viewBox='0 0 481.89 360.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw0ODEuODl8MC4wMHwzNjAuMDA='>
+    <rect x='0.00' y='0.00' width='481.89' height='360.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw0ODEuODl8MC4wMHwzNjAuMDA=)'>
+<rect x='0.00' y='0.00' width='481.89' height='360.00' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpNDEuNDR8NDA2LjE1fDUuNDh8MzI2LjA1'>
+    <rect x='41.44' y='5.48' width='364.70' height='320.57' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNDEuNDR8NDA2LjE1fDUuNDh8MzI2LjA1)'>
+<polyline points='41.44,275.05 406.15,275.05 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='41.44,202.19 406.15,202.19 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='41.44,129.34 406.15,129.34 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='41.44,56.48 406.15,56.48 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='58.02,326.05 58.02,5.48 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='168.54,326.05 168.54,5.48 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='279.05,326.05 279.05,5.48 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='389.57,326.05 389.57,5.48 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='41.44,311.48 406.15,311.48 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='41.44,238.62 406.15,238.62 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='41.44,165.76 406.15,165.76 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='41.44,92.91 406.15,92.91 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='41.44,20.05 406.15,20.05 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='113.28,326.05 113.28,5.48 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='223.80,326.05 223.80,5.48 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='334.31,326.05 334.31,5.48 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<text x='208.39' y='177.11' style='font-size: 28.45px;fill: #CC0085; fill-opacity: 0.59; font-family: "Arial";' textLength='63.25px' lengthAdjust='spacingAndGlyphs'>good</text>
+<text x='225.89' y='83.34' style='font-size: 21.65px;fill: #AE00AE; font-family: "Arial";' textLength='105.48px' lengthAdjust='spacingAndGlyphs'>effective***</text>
+<text x='281.78' y='55.01' style='font-size: 18.92px;fill: #8A00D1; font-family: "Arial";' textLength='57.81px' lengthAdjust='spacingAndGlyphs'>safe***</text>
+<text x='220.88' y='152.63' style='font-size: 17.52px;fill: #C7008C; fill-opacity: 0.32; font-family: "Arial";' textLength='53.52px' lengthAdjust='spacingAndGlyphs'>human</text>
+<text x='243.12' y='134.92' style='font-size: 15.17px;fill: #B300A8; fill-opacity: 0.97; font-family: "Arial";' textLength='59.78px' lengthAdjust='spacingAndGlyphs'>medium*</text>
+<text x='226.83' y='189.06' style='font-size: 14.89px;fill: #CA0088; fill-opacity: 0.14; font-family: "Arial";' textLength='28.92px' lengthAdjust='spacingAndGlyphs'>right</text>
+<text x='275.27' y='168.87' style='font-size: 14.00px;fill: #C20094; fill-opacity: 0.66; font-family: "Arial";' textLength='42.02px' lengthAdjust='spacingAndGlyphs'>patient</text>
+<text x='328.81' y='101.98' style='font-size: 13.38px;fill: #0000FF; fill-opacity: 1.00; font-family: "Arial";' textLength='46.84px' lengthAdjust='spacingAndGlyphs'>cheap**</text>
+<text x='280.45' y='150.71' style='font-size: 13.06px;fill: #C00096; fill-opacity: 0.71; font-family: "Arial";' textLength='28.28px' lengthAdjust='spacingAndGlyphs'>early</text>
+<text x='162.95' y='167.67' style='font-size: 13.06px;fill: #C90089; fill-opacity: 0.11; font-family: "Arial";' textLength='44.97px' lengthAdjust='spacingAndGlyphs'>antiviral</text>
+<text x='237.70' y='118.82' style='font-size: 12.72px;fill: #BB009D; fill-opacity: 0.85; font-family: "Arial";' textLength='48.78px' lengthAdjust='spacingAndGlyphs'>scientific</text>
+<text x='231.24' y='203.53' style='font-size: 12.72px;fill: #C10095; fill-opacity: 0.65; font-family: "Arial";' textLength='43.84px' lengthAdjust='spacingAndGlyphs'>medical</text>
+<text x='169.53' y='180.91' style='font-size: 12.72px;fill: #CE0081; fill-opacity: 0.52; font-family: "Arial";' textLength='34.66px' lengthAdjust='spacingAndGlyphs'>wrong</text>
+<text x='250.81' y='105.37' style='font-size: 12.39px;fill: #B300A7; fill-opacity: 0.93; font-family: "Arial";' textLength='48.81px' lengthAdjust='spacingAndGlyphs'>available</text>
+<text x='263.86' y='191.44' style='font-size: 12.39px;fill: #BC009C; fill-opacity: 0.81; font-family: "Arial";' textLength='24.06px' lengthAdjust='spacingAndGlyphs'>sure</text>
+<text x='213.55' y='136.47' style='font-size: 12.39px;fill: #CC0085; fill-opacity: 0.30; font-family: "Arial";' textLength='22.69px' lengthAdjust='spacingAndGlyphs'>new</text>
+<text x='189.80' y='149.46' style='font-size: 12.39px;fill: #C7008C; fill-opacity: 0.25; font-family: "Arial";' textLength='26.81px' lengthAdjust='spacingAndGlyphs'>base</text>
+<text x='316.12' y='147.88' style='font-size: 11.68px;fill: #A600B6; fill-opacity: 0.94; font-family: "Arial";' textLength='66.80px' lengthAdjust='spacingAndGlyphs'>experimental</text>
+<text x='197.79' y='201.36' style='font-size: 11.68px;fill: #CE0081; fill-opacity: 0.35; font-family: "Arial";' textLength='20.77px' lengthAdjust='spacingAndGlyphs'>little</text>
+<text x='279.55' y='179.07' style='font-size: 10.92px;fill: #C20094; fill-opacity: 0.39; font-family: "Arial";' textLength='29.16px' lengthAdjust='spacingAndGlyphs'>actual</text>
+<text x='226.35' y='220.25' style='font-size: 10.92px;fill: #C8008B; fill-opacity: 0.19; font-family: "Arial";' textLength='24.91px' lengthAdjust='spacingAndGlyphs'>great</text>
+<text x='171.49' y='268.34' style='font-size: 10.11px;fill: #E9004C; font-family: "Arial";' textLength='29.23px' lengthAdjust='spacingAndGlyphs'>true***</text>
+<text x='323.13' y='160.52' style='font-size: 10.11px;fill: #AD00AE; fill-opacity: 0.84; font-family: "Arial";' textLength='34.31px' lengthAdjust='spacingAndGlyphs'>positive</text>
+<text x='133.06' y='168.72' style='font-size: 10.11px;fill: #CC0085; fill-opacity: 0.26; font-family: "Arial";' textLength='22.48px' lengthAdjust='spacingAndGlyphs'>large</text>
+<text x='253.49' y='216.60' style='font-size: 10.11px;fill: #C5008F; fill-opacity: 0.15; font-family: "Arial";' textLength='19.12px' lengthAdjust='spacingAndGlyphs'>high</text>
+<text x='312.56' y='136.10' style='font-size: 9.68px;fill: #B000AC; fill-opacity: 0.79; font-family: "Arial";' textLength='31.19px' lengthAdjust='spacingAndGlyphs'>several</text>
+<text x='166.61' y='193.17' style='font-size: 9.23px;fill: #DB006A; fill-opacity: 0.92; font-family: "Arial";' textLength='25.61px' lengthAdjust='spacingAndGlyphs'>recent</text>
+<text x='294.89' y='186.19' style='font-size: 9.23px;fill: #B200A9; fill-opacity: 0.73; font-family: "Arial";' textLength='20.50px' lengthAdjust='spacingAndGlyphs'>open</text>
+<text x='202.53' y='212.50' style='font-size: 9.23px;fill: #D60074; fill-opacity: 0.72; font-family: "Arial";' textLength='14.84px' lengthAdjust='spacingAndGlyphs'>first</text>
+<text x='313.71' y='177.83' style='font-size: 9.23px;fill: #C10096; fill-opacity: 0.35; font-family: "Arial";' textLength='33.30px' lengthAdjust='spacingAndGlyphs'>ignorant</text>
+<text x='323.07' y='168.35' style='font-size: 9.23px;fill: #C10096; fill-opacity: 0.35; font-family: "Arial";' textLength='15.36px' lengthAdjust='spacingAndGlyphs'>real</text>
+<text x='220.08' y='236.03' style='font-size: 9.23px;fill: #C90089; fill-opacity: 0.10; font-family: "Arial";' textLength='40.97px' lengthAdjust='spacingAndGlyphs'>numerous</text>
+<text x='195.16' y='226.48' style='font-size: 8.76px;fill: #DF0063; fill-opacity: 0.96; font-family: "Arial";' textLength='21.88px' lengthAdjust='spacingAndGlyphs'>false*</text>
+<text x='133.78' y='182.54' style='font-size: 8.76px;fill: #D9006E; fill-opacity: 0.82; font-family: "Arial";' textLength='14.58px' lengthAdjust='spacingAndGlyphs'>bad</text>
+<text x='203.87' y='122.57' style='font-size: 8.76px;fill: #CC0085; fill-opacity: 0.24; font-family: "Arial";' textLength='26.22px' lengthAdjust='spacingAndGlyphs'>clinical</text>
+<text x='144.45' y='147.96' style='font-size: 8.76px;fill: #CC0085; fill-opacity: 0.24; font-family: "Arial";' textLength='36.44px' lengthAdjust='spacingAndGlyphs'>important</text>
+<text x='189.65' y='135.04' style='font-size: 8.76px;fill: #CC0085; fill-opacity: 0.24; font-family: "Arial";' textLength='16.02px' lengthAdjust='spacingAndGlyphs'>viral</text>
+<text x='283.77' y='207.18' style='font-size: 8.76px;fill: #C30093; fill-opacity: 0.21; font-family: "Arial";' textLength='13.11px' lengthAdjust='spacingAndGlyphs'>low</text>
+<text x='157.47' y='240.15' style='font-size: 8.26px;fill: #ED0045; font-family: "Arial";' textLength='43.14px' lengthAdjust='spacingAndGlyphs'>fraudulent**</text>
+<text x='179.79' y='208.91' style='font-size: 8.26px;fill: #DC0067; fill-opacity: 0.90; font-family: "Arial";' textLength='13.31px' lengthAdjust='spacingAndGlyphs'>late</text>
+<text x='213.30' y='109.48' style='font-size: 8.26px;fill: #D60074; fill-opacity: 0.63; font-family: "Arial";' textLength='16.97px' lengthAdjust='spacingAndGlyphs'>valid</text>
+<text x='303.10' y='196.64' style='font-size: 8.26px;fill: #B700A3; fill-opacity: 0.56; font-family: "Arial";' textLength='19.25px' lengthAdjust='spacingAndGlyphs'>small</text>
+<text x='278.66' y='219.35' style='font-size: 8.26px;fill: #B700A3; fill-opacity: 0.56; font-family: "Arial";' textLength='24.78px' lengthAdjust='spacingAndGlyphs'>variant</text>
+<text x='294.22' y='120.71' style='font-size: 8.26px;fill: #B700A3; fill-opacity: 0.56; font-family: "Arial";' textLength='30.28px' lengthAdjust='spacingAndGlyphs'>possible</text>
+<text x='351.88' y='171.80' style='font-size: 8.26px;fill: #C5008F; fill-opacity: 0.32; font-family: "Arial";' textLength='16.97px' lengthAdjust='spacingAndGlyphs'>level</text>
+<text x='235.65' y='105.95' style='font-size: 8.26px;fill: #CF0080; fill-opacity: 0.14; font-family: "Arial";' textLength='9.64px' lengthAdjust='spacingAndGlyphs'>far</text>
+<text x='173.26' y='132.62' style='font-size: 8.26px;fill: #CF0080; fill-opacity: 0.14; font-family: "Arial";' textLength='15.14px' lengthAdjust='spacingAndGlyphs'>plus</text>
+<text x='255.94' y='232.27' style='font-size: 7.72px;fill: #BA009F; fill-opacity: 0.44; font-family: "Arial";' textLength='11.59px' lengthAdjust='spacingAndGlyphs'>live</text>
+<text x='222.15' y='97.69' style='font-size: 7.72px;fill: #D2007B; fill-opacity: 0.32; font-family: "Arial";' textLength='24.91px' lengthAdjust='spacingAndGlyphs'>serious</text>
+<text x='189.05' y='111.92' style='font-size: 7.72px;fill: #D2007B; fill-opacity: 0.32; font-family: "Arial";' textLength='20.61px' lengthAdjust='spacingAndGlyphs'>stupid</text>
+<text x='185.22' y='121.15' style='font-size: 7.72px;fill: #C8008A; fill-opacity: 0.16; font-family: "Arial";' textLength='12.02px' lengthAdjust='spacingAndGlyphs'>last</text>
+<text x='126.77' y='207.57' style='font-size: 7.15px;fill: #E9004D; fill-opacity: 0.98; font-family: "Arial";' textLength='40.91px' lengthAdjust='spacingAndGlyphs'>antiparasitic*</text>
+<text x='162.25' y='221.11' style='font-size: 7.15px;fill: #E9004D; fill-opacity: 0.98; font-family: "Arial";' textLength='25.81px' lengthAdjust='spacingAndGlyphs'>curious*</text>
+<text x='168.80' y='230.95' style='font-size: 7.15px;fill: #E9004D; fill-opacity: 0.98; font-family: "Arial";' textLength='17.06px' lengthAdjust='spacingAndGlyphs'>hard*</text>
+<text x='370.19' y='159.24' style='font-size: 7.15px;fill: #7800DE; fill-opacity: 0.78; font-family: "Arial";' textLength='17.86px' lengthAdjust='spacingAndGlyphs'>pretty</text>
+<text x='142.74' y='190.32' style='font-size: 7.15px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='19.06px' lengthAdjust='spacingAndGlyphs'>useful</text>
+<text x='112.43' y='159.90' style='font-size: 7.15px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='31.78px' lengthAdjust='spacingAndGlyphs'>significant</text>
+<text x='117.20' y='175.02' style='font-size: 7.15px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='9.53px' lengthAdjust='spacingAndGlyphs'>big</text>
+<text x='146.67' y='134.55' style='font-size: 7.15px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='15.09px' lengthAdjust='spacingAndGlyphs'>okay</text>
+<text x='306.13' y='208.81' style='font-size: 7.15px;fill: #BD009B; fill-opacity: 0.29; font-family: "Arial";' textLength='25.67px' lengthAdjust='spacingAndGlyphs'>different</text>
+<text x='238.84' y='250.32' style='font-size: 7.15px;fill: #BD009B; fill-opacity: 0.29; font-family: "Arial";' textLength='35.33px' lengthAdjust='spacingAndGlyphs'>therapeutic</text>
+<text x='326.72' y='194.64' style='font-size: 7.15px;fill: #BD009B; fill-opacity: 0.29; font-family: "Arial";' textLength='24.62px' lengthAdjust='spacingAndGlyphs'>multiple</text>
+<text x='182.40' y='103.25' style='font-size: 7.15px;fill: #CC0085; fill-opacity: 0.21; font-family: "Arial";' textLength='27.00px' lengthAdjust='spacingAndGlyphs'>potential</text>
+<text x='201.28' y='93.38' style='font-size: 7.15px;fill: #CC0085; fill-opacity: 0.21; font-family: "Arial";' textLength='13.50px' lengthAdjust='spacingAndGlyphs'>long</text>
+<text x='154.51' y='121.75' style='font-size: 7.15px;fill: #CC0085; fill-opacity: 0.21; font-family: "Arial";' textLength='23.81px' lengthAdjust='spacingAndGlyphs'>present</text>
+<text x='129.79' y='196.34' style='font-size: 6.53px;fill: #E60053; fill-opacity: 0.95; font-family: "Arial";' textLength='11.97px' lengthAdjust='spacingAndGlyphs'>bias</text>
+<text x='350.08' y='134.07' style='font-size: 6.53px;fill: #7F00D9; fill-opacity: 0.71; font-family: "Arial";' textLength='34.81px' lengthAdjust='spacingAndGlyphs'>prophylactic</text>
+<text x='354.77' y='179.75' style='font-size: 6.53px;fill: #7F00D9; fill-opacity: 0.71; font-family: "Arial";' textLength='17.77px' lengthAdjust='spacingAndGlyphs'>young</text>
+<text x='204.78' y='251.52' style='font-size: 6.53px;fill: #DB006A; fill-opacity: 0.69; font-family: "Arial";' textLength='21.77px' lengthAdjust='spacingAndGlyphs'>specific</text>
+<text x='233.85' y='231.46' style='font-size: 6.53px;fill: #D0007E; fill-opacity: 0.42; font-family: "Arial";' textLength='15.95px' lengthAdjust='spacingAndGlyphs'>direct</text>
+<text x='118.05' y='151.43' style='font-size: 6.53px;fill: #D0007E; fill-opacity: 0.42; font-family: "Arial";' textLength='13.41px' lengthAdjust='spacingAndGlyphs'>refer</text>
+<text x='159.82' y='155.69' style='font-size: 6.53px;fill: #D0007E; fill-opacity: 0.42; font-family: "Arial";' textLength='13.78px' lengthAdjust='spacingAndGlyphs'>easy</text>
+<text x='199.41' y='243.70' style='font-size: 6.53px;fill: #D0007E; fill-opacity: 0.42; font-family: "Arial";' textLength='16.30px' lengthAdjust='spacingAndGlyphs'>numb</text>
+<text x='88.85' y='170.83' style='font-size: 6.53px;fill: #D0007E; fill-opacity: 0.42; font-family: "Arial";' textLength='15.95px' lengthAdjust='spacingAndGlyphs'>south</text>
+<text x='226.22' y='260.27' style='font-size: 6.53px;fill: #D0007E; fill-opacity: 0.42; font-family: "Arial";' textLength='13.78px' lengthAdjust='spacingAndGlyphs'>back</text>
+<text x='279.23' y='234.64' style='font-size: 6.53px;fill: #C10095; fill-opacity: 0.10; font-family: "Arial";' textLength='17.41px' lengthAdjust='spacingAndGlyphs'>global</text>
+<text x='306.77' y='221.15' style='font-size: 6.53px;fill: #C10095; fill-opacity: 0.10; font-family: "Arial";' textLength='6.89px' lengthAdjust='spacingAndGlyphs'>hit</text>
+<text x='370.40' y='172.49' style='font-size: 6.53px;fill: #C10095; fill-opacity: 0.10; font-family: "Arial";' textLength='16.30px' lengthAdjust='spacingAndGlyphs'>major</text>
+<text x='304.89' y='106.57' style='font-size: 6.53px;fill: #C10095; fill-opacity: 0.10; font-family: "Arial";' textLength='17.05px' lengthAdjust='spacingAndGlyphs'>public</text>
+<text x='125.33' y='219.25' style='font-size: 5.84px;fill: #FF0000; fill-opacity: 0.99; font-family: "Arial";' textLength='21.03px' lengthAdjust='spacingAndGlyphs'>original*</text>
+<text x='105.02' y='183.88' style='font-size: 5.84px;fill: #E3005A; fill-opacity: 0.85; font-family: "Arial";' textLength='20.70px' lengthAdjust='spacingAndGlyphs'>ongoing</text>
+<text x='226.60' y='161.32' style='font-size: 5.84px;fill: #E3005A; fill-opacity: 0.85; font-family: "Arial";' textLength='17.47px' lengthAdjust='spacingAndGlyphs'>double</text>
+<text x='154.51' y='213.20' style='font-size: 5.84px;fill: #E3005A; fill-opacity: 0.85; font-family: "Arial";' textLength='12.31px' lengthAdjust='spacingAndGlyphs'>pass</text>
+<text x='326.51' y='122.76' style='font-size: 5.84px;fill: #8700D3; fill-opacity: 0.60; font-family: "Arial";' textLength='26.14px' lengthAdjust='spacingAndGlyphs'>ineffective</text>
+<text x='352.37' y='188.05' style='font-size: 5.84px;fill: #8700D3; fill-opacity: 0.60; font-family: "Arial";' textLength='21.03px' lengthAdjust='spacingAndGlyphs'>average</text>
+<text x='274.50' y='160.03' style='font-size: 5.84px;fill: #8700D3; fill-opacity: 0.60; font-family: "Arial";' textLength='12.95px' lengthAdjust='spacingAndGlyphs'>short</text>
+<text x='209.97' y='160.37' style='font-size: 5.84px;fill: #D60074; fill-opacity: 0.32; font-family: "Arial";' textLength='11.02px' lengthAdjust='spacingAndGlyphs'>next</text>
+<text x='244.89' y='159.86' style='font-size: 5.84px;fill: #D60074; fill-opacity: 0.32; font-family: "Arial";' textLength='9.39px' lengthAdjust='spacingAndGlyphs'>sad</text>
+<text x='208.64' y='190.86' style='font-size: 5.84px;fill: #D60074; fill-opacity: 0.32; font-family: "Arial";' textLength='7.77px' lengthAdjust='spacingAndGlyphs'>old</text>
+<text x='226.26' y='213.10' style='font-size: 5.84px;fill: #D60074; fill-opacity: 0.32; font-family: "Arial";' textLength='17.81px' lengthAdjust='spacingAndGlyphs'>correct</text>
+<text x='127.03' y='138.51' style='font-size: 5.84px;fill: #D60074; fill-opacity: 0.32; font-family: "Arial";' textLength='14.25px' lengthAdjust='spacingAndGlyphs'>funny</text>
+<text x='89.29' y='178.36' style='font-size: 5.84px;fill: #D60074; fill-opacity: 0.32; font-family: "Arial";' textLength='24.59px' lengthAdjust='spacingAndGlyphs'>moderate</text>
+<text x='149.31' y='114.21' style='font-size: 5.84px;fill: #D60074; fill-opacity: 0.32; font-family: "Arial";' textLength='23.95px' lengthAdjust='spacingAndGlyphs'>american</text>
+<text x='264.03' y='91.39' style='font-size: 5.84px;fill: #C6008E; fill-opacity: 0.25; font-family: "Arial";' textLength='25.58px' lengthAdjust='spacingAndGlyphs'>veterinary</text>
+<text x='259.18' y='181.71' style='font-size: 5.84px;fill: #C6008E; fill-opacity: 0.25; font-family: "Arial";' textLength='9.70px' lengthAdjust='spacingAndGlyphs'>oral</text>
+<text x='310.59' y='128.34' style='font-size: 5.84px;fill: #C6008E; fill-opacity: 0.25; font-family: "Arial";' textLength='14.58px' lengthAdjust='spacingAndGlyphs'>smart</text>
+<text x='246.04' y='194.85' style='font-size: 5.84px;fill: #C6008E; fill-opacity: 0.25; font-family: "Arial";' textLength='10.69px' lengthAdjust='spacingAndGlyphs'>nice</text>
+<text x='322.20' y='212.82' style='font-size: 5.84px;fill: #C6008E; fill-opacity: 0.25; font-family: "Arial";' textLength='14.56px' lengthAdjust='spacingAndGlyphs'>entire</text>
+<text x='111.24' y='195.43' style='font-size: 5.06px;fill: #FC0012; fill-opacity: 0.96; font-family: "Arial";' textLength='18.83px' lengthAdjust='spacingAndGlyphs'>harmful*</text>
+<text x='111.19' y='200.31' style='font-size: 5.06px;fill: #FC0012; fill-opacity: 0.96; font-family: "Arial";' textLength='15.75px' lengthAdjust='spacingAndGlyphs'>bogus*</text>
+<text x='94.38' y='151.09' style='font-size: 5.06px;fill: #DE0064; fill-opacity: 0.59; font-family: "Arial";' textLength='16.59px' lengthAdjust='spacingAndGlyphs'>generic</text>
+<text x='82.04' y='163.68' style='font-size: 5.06px;fill: #DE0064; fill-opacity: 0.59; font-family: "Arial";' textLength='13.20px' lengthAdjust='spacingAndGlyphs'>whole</text>
+<text x='153.81' y='179.69' style='font-size: 5.06px;fill: #DE0064; fill-opacity: 0.59; font-family: "Arial";' textLength='8.16px' lengthAdjust='spacingAndGlyphs'>fast</text>
+<text x='276.07' y='141.83' style='font-size: 5.06px;fill: #DE0064; fill-opacity: 0.59; font-family: "Arial";' textLength='16.31px' lengthAdjust='spacingAndGlyphs'>reliable</text>
+<text x='192.90' y='78.96' style='font-size: 5.06px;fill: #DE0064; fill-opacity: 0.59; font-family: "Arial";' textLength='24.19px' lengthAdjust='spacingAndGlyphs'>regurgitate</text>
+<text x='182.71' y='248.65' style='font-size: 5.06px;fill: #DE0064; fill-opacity: 0.59; font-family: "Arial";' textLength='14.91px' lengthAdjust='spacingAndGlyphs'>deadly</text>
+<text x='146.22' y='224.80' style='font-size: 5.06px;fill: #DE0064; fill-opacity: 0.59; font-family: "Arial";' textLength='13.50px' lengthAdjust='spacingAndGlyphs'>liberal</text>
+<text x='110.63' y='142.67' style='font-size: 5.06px;fill: #DE0064; fill-opacity: 0.59; font-family: "Arial";' textLength='12.09px' lengthAdjust='spacingAndGlyphs'>dying</text>
+<text x='87.01' y='159.42' style='font-size: 5.06px;fill: #DE0064; fill-opacity: 0.59; font-family: "Arial";' textLength='13.78px' lengthAdjust='spacingAndGlyphs'>sound</text>
+<text x='335.88' y='128.14' style='font-size: 5.06px;fill: #9000CC; fill-opacity: 0.45; font-family: "Arial";' textLength='13.22px' lengthAdjust='spacingAndGlyphs'>trillion</text>
+<text x='387.99' y='167.64' style='font-size: 5.06px;fill: #9000CC; fill-opacity: 0.45; font-family: "Arial";' textLength='16.31px' lengthAdjust='spacingAndGlyphs'>outside</text>
+<text x='312.39' y='224.78' style='font-size: 5.06px;fill: #9000CC; fill-opacity: 0.45; font-family: "Arial";' textLength='23.06px' lengthAdjust='spacingAndGlyphs'>necessary</text>
+<text x='339.51' y='203.36' style='font-size: 5.06px;fill: #9000CC; fill-opacity: 0.45; font-family: "Arial";' textLength='18.00px' lengthAdjust='spacingAndGlyphs'>adverse</text>
+<text x='307.21' y='212.62' style='font-size: 5.06px;fill: #9000CC; fill-opacity: 0.45; font-family: "Arial";' textLength='8.72px' lengthAdjust='spacingAndGlyphs'>free</text>
+<text x='347.38' y='207.76' style='font-size: 5.06px;fill: #9000CC; fill-opacity: 0.45; font-family: "Arial";' textLength='24.17px' lengthAdjust='spacingAndGlyphs'>impressive</text>
+<text x='382.45' y='182.30' style='font-size: 5.06px;fill: #9000CC; fill-opacity: 0.45; font-family: "Arial";' textLength='19.11px' lengthAdjust='spacingAndGlyphs'>powerful</text>
+<text x='309.28' y='230.83' style='font-size: 5.06px;fill: #9000CC; fill-opacity: 0.45; font-family: "Arial";' textLength='13.77px' lengthAdjust='spacingAndGlyphs'>empty</text>
+<text x='306.96' y='155.50' style='font-size: 5.06px;fill: #9000CC; fill-opacity: 0.45; font-family: "Arial";' textLength='8.16px' lengthAdjust='spacingAndGlyphs'>half</text>
+<text x='322.71' y='113.39' style='font-size: 5.06px;fill: #9000CC; fill-opacity: 0.45; font-family: "Arial";' textLength='14.25px' lengthAdjust='spacingAndGlyphs'>official</text>
+<text x='390.69' y='173.72' style='font-size: 5.06px;fill: #9000CC; fill-opacity: 0.45; font-family: "Arial";' textLength='11.25px' lengthAdjust='spacingAndGlyphs'>huge</text>
+<text x='296.36' y='242.49' style='font-size: 5.06px;fill: #9000CC; fill-opacity: 0.45; font-family: "Arial";' textLength='11.25px' lengthAdjust='spacingAndGlyphs'>deep</text>
+<text x='351.34' y='198.19' style='font-size: 5.06px;fill: #9000CC; fill-opacity: 0.45; font-family: "Arial";' textLength='11.25px' lengthAdjust='spacingAndGlyphs'>dead</text>
+<text x='280.96' y='197.96' style='font-size: 5.06px;fill: #9000CC; fill-opacity: 0.45; font-family: "Arial";' textLength='14.34px' lengthAdjust='spacingAndGlyphs'>critical</text>
+<text x='303.16' y='93.12' style='font-size: 5.06px;fill: #9000CC; fill-opacity: 0.45; font-family: "Arial";' textLength='16.59px' lengthAdjust='spacingAndGlyphs'>straight</text>
+<text x='325.83' y='220.39' style='font-size: 5.06px;fill: #9000CC; fill-opacity: 0.45; font-family: "Arial";' textLength='22.47px' lengthAdjust='spacingAndGlyphs'>worldwide</text>
+<text x='394.24' y='155.86' style='font-size: 5.06px;fill: #9000CC; fill-opacity: 0.45; font-family: "Arial";' textLength='11.81px' lengthAdjust='spacingAndGlyphs'>guilty</text>
+<text x='230.84' y='269.66' style='font-size: 5.06px;fill: #CC0084; fill-opacity: 0.18; font-family: "Arial";' textLength='19.97px' lengthAdjust='spacingAndGlyphs'>definitive</text>
+<text x='239.32' y='59.89' style='font-size: 5.06px;fill: #CC0084; fill-opacity: 0.18; font-family: "Arial";' textLength='13.78px' lengthAdjust='spacingAndGlyphs'>happy</text>
+<text x='226.99' y='66.30' style='font-size: 5.06px;fill: #CC0084; fill-opacity: 0.18; font-family: "Arial";' textLength='11.25px' lengthAdjust='spacingAndGlyphs'>rapid</text>
+<text x='254.28' y='260.25' style='font-size: 5.06px;fill: #CC0084; fill-opacity: 0.18; font-family: "Arial";' textLength='21.09px' lengthAdjust='spacingAndGlyphs'>reputable</text>
+<text x='178.66' y='93.70' style='font-size: 5.06px;fill: #CC0084; fill-opacity: 0.18; font-family: "Arial";' textLength='12.64px' lengthAdjust='spacingAndGlyphs'>dumb</text>
+<text x='237.68' y='265.59' style='font-size: 5.06px;fill: #CC0084; fill-opacity: 0.18; font-family: "Arial";' textLength='10.97px' lengthAdjust='spacingAndGlyphs'>clear</text>
+<text x='323.71' y='187.30' style='font-size: 5.06px;fill: #CC0084; fill-opacity: 0.18; font-family: "Arial";' textLength='9.56px' lengthAdjust='spacingAndGlyphs'>fake</text>
+<text x='200.06' y='155.65' style='font-size: 5.06px;fill: #CC0084; fill-opacity: 0.18; font-family: "Arial";' textLength='12.08px' lengthAdjust='spacingAndGlyphs'>weird</text>
+<text x='150.67' y='195.48' style='font-size: 5.06px;fill: #CC0084; fill-opacity: 0.18; font-family: "Arial";' textLength='6.75px' lengthAdjust='spacingAndGlyphs'>set</text>
+<text x='229.18' y='274.38' style='font-size: 5.06px;fill: #CC0084; fill-opacity: 0.18; font-family: "Arial";' textLength='15.75px' lengthAdjust='spacingAndGlyphs'>current</text>
+<text x='206.20' y='234.50' style='font-size: 5.06px;fill: #CC0084; fill-opacity: 0.18; font-family: "Arial";' textLength='11.25px' lengthAdjust='spacingAndGlyphs'>often</text>
+<text x='163.92' y='97.91' style='font-size: 5.06px;fill: #CC0084; fill-opacity: 0.18; font-family: "Arial";' textLength='21.64px' lengthAdjust='spacingAndGlyphs'>legitimate</text>
+<text x='125.90' y='124.28' style='font-size: 5.06px;fill: #CC0084; fill-opacity: 0.18; font-family: "Arial";' textLength='16.88px' lengthAdjust='spacingAndGlyphs'>political</text>
+<text x='211.00' y='266.64' style='font-size: 5.06px;fill: #CC0084; fill-opacity: 0.18; font-family: "Arial";' textLength='16.88px' lengthAdjust='spacingAndGlyphs'>strange</text>
+<text x='59.47' y='169.07' style='font-size: 5.06px;fill: #CC0084; fill-opacity: 0.18; font-family: "Arial";' textLength='21.09px' lengthAdjust='spacingAndGlyphs'>unproven</text>
+<text x='245.48' y='245.74' style='font-size: 5.06px;fill: #CC0084; fill-opacity: 0.18; font-family: "Arial";' textLength='8.16px' lengthAdjust='spacingAndGlyphs'>anti</text>
+<text x='78.81' y='182.51' style='font-size: 5.06px;fill: #CC0084; fill-opacity: 0.18; font-family: "Arial";' textLength='19.12px' lengthAdjust='spacingAndGlyphs'>opposite</text>
+<text x='149.76' y='105.94' style='font-size: 5.06px;fill: #CC0084; fill-opacity: 0.18; font-family: "Arial";' textLength='22.78px' lengthAdjust='spacingAndGlyphs'>expensive</text>
+<text x='206.81' y='70.66' style='font-size: 5.06px;fill: #CC0084; fill-opacity: 0.18; font-family: "Arial";' textLength='14.89px' lengthAdjust='spacingAndGlyphs'>worthy</text>
+<text x='224.80' y='279.69' style='font-size: 5.06px;fill: #CC0084; fill-opacity: 0.18; font-family: "Arial";' textLength='23.62px' lengthAdjust='spacingAndGlyphs'>conclusive</text>
+<text x='100.64' y='134.32' style='font-size: 5.06px;fill: #CC0084; fill-opacity: 0.18; font-family: "Arial";' textLength='18.28px' lengthAdjust='spacingAndGlyphs'>superior</text>
+<text x='232.91' y='51.98' style='font-size: 5.06px;fill: #CC0084; fill-opacity: 0.18; font-family: "Arial";' textLength='21.66px' lengthAdjust='spacingAndGlyphs'>dishonest</text>
+<text x='172.04' y='190.06' style='font-size: 5.06px;fill: #CC0084; fill-opacity: 0.18; font-family: "Arial";' textLength='9.56px' lengthAdjust='spacingAndGlyphs'>total</text>
+<text x='116.24' y='212.38' style='font-size: 4.13px;fill: #F90022; fill-opacity: 0.85; font-family: "Arial";' textLength='21.34px' lengthAdjust='spacingAndGlyphs'>problematic</text>
+<text x='95.11' y='188.83' style='font-size: 4.13px;fill: #F90022; fill-opacity: 0.85; font-family: "Arial";' textLength='12.41px' lengthAdjust='spacingAndGlyphs'>equine</text>
+<text x='144.68' y='230.46' style='font-size: 4.13px;fill: #F90022; fill-opacity: 0.85; font-family: "Arial";' textLength='10.78px' lengthAdjust='spacingAndGlyphs'>sweet</text>
+<text x='54.87' y='181.43' style='font-size: 4.13px;fill: #F90022; fill-opacity: 0.85; font-family: "Arial";' textLength='23.41px' lengthAdjust='spacingAndGlyphs'>controversial</text>
+<text x='87.98' y='197.22' style='font-size: 4.13px;fill: #F90022; fill-opacity: 0.85; font-family: "Arial";' textLength='19.28px' lengthAdjust='spacingAndGlyphs'>regardless</text>
+<text x='72.84' y='173.06' style='font-size: 4.13px;fill: #F90022; fill-opacity: 0.85; font-family: "Arial";' textLength='11.94px' lengthAdjust='spacingAndGlyphs'>proper</text>
+<text x='133.55' y='173.32' style='font-size: 4.13px;fill: #F90022; fill-opacity: 0.85; font-family: "Arial";' textLength='8.03px' lengthAdjust='spacingAndGlyphs'>alert</text>
+<text x='61.83' y='187.92' style='font-size: 4.13px;fill: #F90022; fill-opacity: 0.85; font-family: "Arial";' textLength='19.05px' lengthAdjust='spacingAndGlyphs'>secondary</text>
+<text x='94.90' y='208.32' style='font-size: 4.13px;fill: #F90022; fill-opacity: 0.85; font-family: "Arial";' textLength='20.91px' lengthAdjust='spacingAndGlyphs'>unavailable</text>
+<text x='95.35' y='202.99' style='font-size: 4.13px;fill: #F90022; fill-opacity: 0.85; font-family: "Arial";' textLength='11.94px' lengthAdjust='spacingAndGlyphs'>violate</text>
+<text x='131.18' y='236.73' style='font-size: 4.13px;fill: #F90022; fill-opacity: 0.85; font-family: "Arial";' textLength='23.17px' lengthAdjust='spacingAndGlyphs'>conservative</text>
+<text x='156.46' y='174.84' style='font-size: 4.13px;fill: #F90022; fill-opacity: 0.85; font-family: "Arial";' textLength='5.28px' lengthAdjust='spacingAndGlyphs'>full</text>
+<text x='219.90' y='194.55' style='font-size: 4.13px;fill: #F90022; fill-opacity: 0.85; font-family: "Arial";' textLength='9.62px' lengthAdjust='spacingAndGlyphs'>leftist</text>
+<text x='211.74' y='58.92' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='18.83px' lengthAdjust='spacingAndGlyphs'>sequential</text>
+<text x='177.84' y='254.73' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='16.53px' lengthAdjust='spacingAndGlyphs'>empirical</text>
+<text x='66.73' y='160.04' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='10.56px' lengthAdjust='spacingAndGlyphs'>proud</text>
+<text x='172.52' y='84.33' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='23.42px' lengthAdjust='spacingAndGlyphs'>irresponsible</text>
+<text x='199.29' y='260.76' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='15.83px' lengthAdjust='spacingAndGlyphs'>common</text>
+<text x='156.88' y='127.85' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='11.02px' lengthAdjust='spacingAndGlyphs'>british</text>
+<text x='131.70' y='129.24' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='10.56px' lengthAdjust='spacingAndGlyphs'>kindly</text>
+<text x='73.28' y='148.74' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='16.77px' lengthAdjust='spacingAndGlyphs'>equitable</text>
+<text x='201.06' y='274.51' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='19.97px' lengthAdjust='spacingAndGlyphs'>acceptable</text>
+<text x='131.98' y='119.83' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='14.23px' lengthAdjust='spacingAndGlyphs'>feasible</text>
+<text x='140.60' y='202.58' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='5.73px' lengthAdjust='spacingAndGlyphs'>fair</text>
+<text x='89.73' y='140.29' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='11.94px' lengthAdjust='spacingAndGlyphs'>similar</text>
+<text x='183.98' y='125.03' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='12.39px' lengthAdjust='spacingAndGlyphs'>careful</text>
+<text x='271.23' y='95.28' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='12.62px' lengthAdjust='spacingAndGlyphs'>terrible</text>
+<text x='274.03' y='242.44' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='10.56px' lengthAdjust='spacingAndGlyphs'>round</text>
+<text x='161.96' y='247.62' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='13.77px' lengthAdjust='spacingAndGlyphs'>primary</text>
+<text x='187.89' y='65.47' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='19.52px' lengthAdjust='spacingAndGlyphs'>dangerous</text>
+<text x='122.35' y='115.35' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='21.12px' lengthAdjust='spacingAndGlyphs'>responsible</text>
+<text x='191.28' y='74.67' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='12.39px' lengthAdjust='spacingAndGlyphs'>minute</text>
+<text x='51.29' y='172.89' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='7.58px' lengthAdjust='spacingAndGlyphs'>kind</text>
+<text x='211.15' y='84.05' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='7.81px' lengthAdjust='spacingAndGlyphs'>glad</text>
+<text x='206.22' y='52.57' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='21.58px' lengthAdjust='spacingAndGlyphs'>uneducated</text>
+<text x='224.18' y='200.40' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='2.77px' lengthAdjust='spacingAndGlyphs'>ill</text>
+<text x='161.29' y='91.84' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='10.11px' lengthAdjust='spacingAndGlyphs'>willful</text>
+<text x='125.45' y='227.66' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='12.84px' lengthAdjust='spacingAndGlyphs'>corrupt</text>
+<text x='126.43' y='109.32' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='17.91px' lengthAdjust='spacingAndGlyphs'>emotional</text>
+<text x='148.94' y='160.80' style='font-size: 4.13px;fill: #D60074; fill-opacity: 0.51; font-family: "Arial";' textLength='10.80px' lengthAdjust='spacingAndGlyphs'>viable</text>
+<text x='373.78' y='194.76' style='font-size: 4.13px;fill: #9B00C1; fill-opacity: 0.21; font-family: "Arial";' textLength='7.58px' lengthAdjust='spacingAndGlyphs'>light</text>
+<text x='378.39' y='190.25' style='font-size: 4.13px;fill: #9B00C1; fill-opacity: 0.21; font-family: "Arial";' textLength='14.45px' lengthAdjust='spacingAndGlyphs'>western</text>
+<text x='290.16' y='92.59' style='font-size: 4.13px;fill: #9B00C1; fill-opacity: 0.21; font-family: "Arial";' textLength='9.86px' lengthAdjust='spacingAndGlyphs'>mock</text>
+<text x='288.41' y='250.00' style='font-size: 4.13px;fill: #9B00C1; fill-opacity: 0.21; font-family: "Arial";' textLength='14.14px' lengthAdjust='spacingAndGlyphs'>efficient</text>
+<text x='393.95' y='147.47' style='font-size: 4.13px;fill: #9B00C1; fill-opacity: 0.21; font-family: "Arial";' textLength='12.39px' lengthAdjust='spacingAndGlyphs'>unsafe</text>
+<text x='344.97' y='114.99' style='font-size: 4.13px;fill: #9B00C1; fill-opacity: 0.21; font-family: "Arial";' textLength='17.44px' lengthAdjust='spacingAndGlyphs'>extensive</text>
+<text x='369.12' y='202.86' style='font-size: 4.13px;fill: #9B00C1; fill-opacity: 0.21; font-family: "Arial";' textLength='10.56px' lengthAdjust='spacingAndGlyphs'>social</text>
+<text x='309.32' y='241.35' style='font-size: 4.13px;fill: #9B00C1; fill-opacity: 0.21; font-family: "Arial";' textLength='10.56px' lengthAdjust='spacingAndGlyphs'>politic</text>
+<text x='394.58' y='187.31' style='font-size: 4.13px;fill: #9B00C1; fill-opacity: 0.21; font-family: "Arial";' textLength='9.64px' lengthAdjust='spacingAndGlyphs'>away</text>
+<text x='324.32' y='198.21' style='font-size: 4.13px;fill: #9B00C1; fill-opacity: 0.21; font-family: "Arial";' textLength='8.50px' lengthAdjust='spacingAndGlyphs'>wide</text>
+<text x='279.05' y='254.80' style='font-size: 4.13px;fill: #9B00C1; fill-opacity: 0.21; font-family: "Arial";' textLength='17.44px' lengthAdjust='spacingAndGlyphs'>long-term</text>
+<line x1='240.37' y1='296.91' x2='287.34' y2='296.91' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polygon points='283.89,298.90 287.34,296.91 283.89,294.91 ' style='stroke-width: 1.07; stroke-linecap: butt; fill: #000000;' />
+<text x='290.11' y='293.82' style='font-size: 8.54px; font-family: "Arial";' textLength='92.83px' lengthAdjust='spacingAndGlyphs'>Words more common in </text>
+<text x='290.11' y='306.11' style='font-size: 8.54px; font-family: "Arial";' textLength='110.56px' lengthAdjust='spacingAndGlyphs'> positive-stance tweets (blue)</text>
+<line x1='207.22' y1='296.91' x2='160.25' y2='296.91' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polygon points='163.70,294.91 160.25,296.91 163.70,298.90 ' style='stroke-width: 1.07; stroke-linecap: butt; fill: #000000;' />
+<text x='157.49' y='293.82' text-anchor='end' style='font-size: 8.54px; font-family: "Arial";' textLength='83.81px' lengthAdjust='spacingAndGlyphs'>Words more common </text>
+<text x='157.49' y='306.11' text-anchor='end' style='font-size: 8.54px; font-family: "Arial";' textLength='94.45px' lengthAdjust='spacingAndGlyphs'>in rest of the tweets (red)</text>
+</g>
+<g clip-path='url(#cpMC4wMHw0ODEuODl8MC4wMHwzNjAuMDA=)'>
+<text x='36.51' y='314.63' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='12.70px' lengthAdjust='spacingAndGlyphs'>-20</text>
+<text x='36.51' y='241.77' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='12.70px' lengthAdjust='spacingAndGlyphs'>-10</text>
+<text x='36.51' y='168.91' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='36.51' y='96.06' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>10</text>
+<text x='36.51' y='23.20' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>20</text>
+<text x='113.28' y='337.28' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='7.81px' lengthAdjust='spacingAndGlyphs'>-2</text>
+<text x='223.80' y='337.28' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='334.31' y='337.28' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>2</text>
+<text x='159.87' y='349.88' style='font-size: 11.00px; font-family: "Arial";' textLength='100.94px' lengthAdjust='spacingAndGlyphs'>Overrepresentation (</text>
+<text x='260.81' y='349.88' style='font-size: 11.00px; font-family: "Arial";' textLength='2.44px' lengthAdjust='spacingAndGlyphs'>l</text>
+<text x='263.25' y='349.88' style='font-size: 11.00px; font-family: "Arial";' textLength='6.12px' lengthAdjust='spacingAndGlyphs'>o</text>
+<text x='269.37' y='349.88' style='font-size: 11.00px; font-family: "Arial";' textLength='6.12px' lengthAdjust='spacingAndGlyphs'>g</text>
+<text x='275.49' y='351.88' style='font-size: 7.70px; font-family: "Arial";' textLength='8.56px' lengthAdjust='spacingAndGlyphs'>10</text>
+<text x='284.05' y='349.88' style='font-size: 11.00px; font-family: "Arial";' textLength='3.66px' lengthAdjust='spacingAndGlyphs'>)</text>
+<text transform='translate(16.43,198.62) rotate(-90)' style='font-size: 11.00px; font-family: "Arial";' textLength='48.94px' lengthAdjust='spacingAndGlyphs'>Keyness (</text>
+<text transform='translate(16.43,149.68) rotate(-90)' style='font-size: 11.00px; font-family: "Arial";' textLength='3.06px' lengthAdjust='spacingAndGlyphs'> </text>
+<text transform='translate(16.43,146.62) rotate(-90)' style='font-size: 11.00px; font-family: "Arial";' textLength='5.78px' lengthAdjust='spacingAndGlyphs'>χ</text>
+<text transform='translate(11.01,140.85) rotate(-90)' style='font-size: 7.70px; font-family: "Arial";' textLength='4.28px' lengthAdjust='spacingAndGlyphs'>2</text>
+<text transform='translate(16.43,136.57) rotate(-90)' style='font-size: 11.00px; font-family: "Arial";' textLength='3.66px' lengthAdjust='spacingAndGlyphs'>)</text>
+<text x='422.59' y='110.92' style='font-size: 11.00px; font-family: "Arial";' textLength='48.34px' lengthAdjust='spacingAndGlyphs'>frequency</text>
+<text x='431.93' y='127.67' text-anchor='middle' style='font-size: 4.13px; font-family: "Arial";' textLength='2.30px' lengthAdjust='spacingAndGlyphs'>a</text>
+<text x='431.93' y='148.70' text-anchor='middle' style='font-size: 14.60px; font-family: "Arial";' textLength='8.11px' lengthAdjust='spacingAndGlyphs'>a</text>
+<text x='431.93' y='170.51' text-anchor='middle' style='font-size: 20.64px; font-family: "Arial";' textLength='11.48px' lengthAdjust='spacingAndGlyphs'>a</text>
+<text x='431.93' y='196.31' text-anchor='middle' style='font-size: 25.28px; font-family: "Arial";' textLength='14.05px' lengthAdjust='spacingAndGlyphs'>a</text>
+<text x='431.93' y='225.21' text-anchor='middle' style='font-size: 28.45px; font-family: "Arial";' textLength='15.81px' lengthAdjust='spacingAndGlyphs'>a</text>
+<text x='446.76' y='129.35' style='font-size: 8.80px; font-family: "Arial";' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>2</text>
+<text x='446.76' y='146.63' style='font-size: 8.80px; font-family: "Arial";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>25</text>
+<text x='446.76' y='166.27' style='font-size: 8.80px; font-family: "Arial";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>50</text>
+<text x='446.76' y='190.42' style='font-size: 8.80px; font-family: "Arial";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>75</text>
+<text x='446.76' y='218.18' style='font-size: 8.80px; font-family: "Arial";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>95</text>
+</g>
+</g>
+</svg>
