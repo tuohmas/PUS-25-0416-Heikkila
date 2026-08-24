@@ -1,4 +1,4 @@
-# Tuomas Heikkilä
+# Tuomas Heikkilä, University of Helsinki
 # tuomas.k.heikkila@helsinki.fi
 
 # Preprocess tweets and replies
@@ -28,7 +28,6 @@ pacman::p_load(dplyr,
                textclean) # for cleanemojis
 
 # Load and join datasets and 800 sampled labels
-# Tweets...
 tweets <- readRDS("data/tweet_data_final.rds")
 glimpse(tweets)
 
@@ -151,10 +150,6 @@ preprocess_transformer <- function(df) {
     # mutate(text = gsub("@.+?(\\s+|$)", " <username> ", text)) %>%
     # mutate(text = gsub("@.+?(\\s+|$)", "@username ", text)) %>%
     mutate(text = gsub("@.+?(\\s+|$)", "", text)) %>%
-
-    # Debug hashes manually
-    # mutate(text = gsub("<e2><80><9c>|<e2><80><9d>", '"', text)) %>%
-    # mutate(text = gsub("<e2><80><99>", "'", text)) %>%
 
     # Mark ellipsis
     mutate(text = gsub("…|\\.{3}", " ... ", text)) %>%
@@ -289,24 +284,11 @@ preprocess_glove <- function(df) {
 }
 
 # Run preprocess procedures and save cleaned datasets, tweets
-preprocess_transformer(tweets) %>%
-  saveRDS("data/readme/inputs/tweets2transformers.rds")
-
-preprocess_transformer_markemojis(tweets) %>%
-  saveRDS("data/readme/inputs/tweets2transformers-verbose.rds")
-
-preprocess_glove(tweets) %>%
-  saveRDS("data/readme/inputs/tweets2glove.rds")
+tweets2transformers <- preprocess_transformer(tweets)
+tweets2transformers_verbose <- preprocess_transformer_markemojis(tweets)
+tweets2glove <- preprocess_glove(tweets)
 
 # Run preprocess procedures and save cleaned datasets, replies
-preprocess_transformer(replies) %>%
-  saveRDS("data/readme/inputs/replies2transformers.rds")
-
-preprocess_transformer_markemojis(replies) %>%
-  saveRDS("data/readme/inputs/replies2transformers-verbose.rds")
-
-preprocess_glove(replies) %>%
-  saveRDS("data/readme/inputs/replies2glove.rds")
-
-# Clean the environment
-rm(list = ls())
+replies2transformer <- preprocess_transformer(replies)
+replies2transformers_verbose <- preprocess_transformer_markemojis(replies)
+replies2glove <- preprocess_glove(replies)
