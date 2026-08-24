@@ -127,14 +127,14 @@ database <- database %>% filter(
 glimpse(database) # 343 records (cumulative)
 
 # Filtering: Case insensitive COVID-19 related keywords:
-# ((hydroxychloroquine* OR "hcq") OR ("ivermectin* OR "ivm")): 27 records
+# ((hydroxychloroquine* OR "hcq") OR ("ivermectin* OR "ivm"))
 
 drug_keywords <- c("hydroxychloroquine", "hcq", "ivermectin", "ivm")
 
 database <- database %>% filter(
   grepl(paste(drug_keywords, collapse = "|"), Title, ignore.case = TRUE))
 
-glimpse(database)
+glimpse(database) # 27 records (cumulative)
 
 # Filtering by Article type: ("Clinical Study" OR "Review Article"
 # OR "Case Report" OR "Meta-Analysis" OR "Research Article"): 25 records
@@ -157,4 +157,3 @@ database <- database %>%
   arrange(Title)
 
 glimpse(database) # 18 records
-
