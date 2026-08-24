@@ -1,4 +1,4 @@
-# Tuomas Heikkilä
+# Tuomas Heikkilä, University of Helsinki
 # tuomas.k.heikkila@helsinki.fi
 
 # Script for running Automated Nonparametric Content Analysis with Readme2
