@@ -1,29 +1,5 @@
-# Tuomas Heikkilä
+# Tuomas Heikkilä, University of Helsinki
 # tuomas.k.heikkila@helsinki.fi
-
-# Script for running Automated Nonparametric Content Analysis with Readme2
-# To be run as a CSC Puhti Array job
-
-## Login overriding the default MAC algorithm
-# ssh -m hmac-sha2-512 tuomheik@puhti.csc.fi
-
-### TESTTING IN INTERACTIVE
-## Launch interactive mode with default memory and local scratch space. for example:
-# cd /projappl/project_2010556
-# sinteractive --account project_2010556 --cores 1 --time 01:00:00 --mem 8G --tmp 10
-
-## Create a folder for your R packages in /projappl
-# cd /projappl/project_2010556
-# mkdir project_rpackages
-
-## Go to projappl and activate r-readme
-# cd /projappl/project_2010556
-# module load python-data
-# source /projappl/project_2010556/r-reticulate/bin/activate
-
-# Start R
-# module load r-env
-# start-r
 
 # PREPARATIONS #################################################################
 
@@ -82,10 +58,6 @@ path <- "/scratch/project_2010556/readme" # HPC ENV
 models <- c("bert" = "bert-base-cased", # google-bert/bert-base-cased
             "roberta" = "roberta-base", # FacebookAI/roberta-base
             "distilgpt2" = "distilgpt2") # "distilbert/distilgpt2
-
-# FIXME GET BACK TO THIS
-# input_types <- list.files("./data/readme")
-# input_types <- c("tweets", "replies")
 
 # Array arguments
 args <- commandArgs(trailingOnly = TRUE)
